@@ -21,8 +21,6 @@ roles:
 allowed_remote_resources:
     - https://raw.githubusercontent.com/fullsend-ai/fullsend/
     - https://raw.githubusercontent.com/fullsend-ai/agents/
-authorization:
-    - provider: owners_file
 mint_url: https://bt-43bd11a5-bt-mint.fullsend-ai.workers.dev
 inference:
     project: it-gcp-konflux-e2e-fullsend
